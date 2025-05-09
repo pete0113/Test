@@ -1,2 +1,2 @@
 # Test
-chust checkin
+just checkin
